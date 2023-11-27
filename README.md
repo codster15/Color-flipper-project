@@ -28,7 +28,7 @@ Color Flipper is not just a project; it's a burst of creativity waiting to happe
 
 ## How to Use
 
-1. **Visit the App:**  🚀
+1. **Visit the App:** https://codster15.github.io/Color-flipper-project/. 🚀
 2. **Click the Button:** Witness the magic as the background transforms into a new, vibrant hue.
 
 ## What's Next?

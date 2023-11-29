@@ -1,7 +1,7 @@
 
 
 
-
+var lastno = 0;
 
 var doAction = ()=>{
 
@@ -9,12 +9,14 @@ var doAction = ()=>{
    
 
 
+    
+  do{
+        var randomNumberGenerate = Math.random()*colorlist.length
+         randomNumberGenerate = Math.floor(randomNumberGenerate);
+         
+    } while(randomNumberGenerate === lastno)
 
-    var randomNumberGenerate = Math.random()*colorlist.length
-
-      
-
-    randomNumberGenerate = Math.floor(randomNumberGenerate);
+    lastno = randomNumberGenerate;
 
     var  showcolor = colorlist[randomNumberGenerate]; 
     console.log(showcolor);

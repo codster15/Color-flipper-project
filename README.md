@@ -2,7 +2,7 @@
 
 # About Me
 
-Hey there! 👋 I'm **Deepak**, the creative mind behind the Color Flipper project—a simple yet delightful web application that adds a splash of color to your digital canvas. Let me share more about myself and the inspiration behind this vibrant project.. 🎨
+Hey there! 👋 I'm **Deepak**, the creative mind behind the Color Flipper project—a simple yet delightful web application that adds a splash of color to your digital canvas. Let me share more about myself and the inspiration behind this vibrant project. 🎨
 
 ## Project Overview
 
